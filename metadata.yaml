@@ -1,0 +1,33 @@
+_repo: An-apology-for-idlers-and-other-essays_69825
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_issued: '2023-01-18'
+identifiers:
+  gutenberg: '69825'
+language: en
+pgterms:marc905: 20221224174142stevenson
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: 'United States: Thomas B Mosher,1905,pubdate 1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: An apology for idlers -- El Dorado -- The English admirals -- Child's
+  play.
+title: An apology for idlers, and other essays
+url: http://www.gutenberg.org/ebooks/69825
