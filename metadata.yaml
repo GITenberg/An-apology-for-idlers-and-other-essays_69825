@@ -1,5 +1,8 @@
 _repo: An-apology-for-idlers-and-other-essays_69825
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69825-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: https://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69825#An-apology-for-idlers-and-other-essays
 gutenberg_issued: '2023-01-18'
 identifiers:
   gutenberg: '69825'
